@@ -1,0 +1,5 @@
+{
+  "sourcePath": "./source",
+  "outputPath": "./compress",
+  "exclude": ""
+}
